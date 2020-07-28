@@ -1,4 +1,4 @@
-![My UCI homepage](Screen%20Shot%202020-07-28%20at%203.10.01%20PM.png)
+- 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 
 <!--
 **ychenzgithub/ychenzgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
